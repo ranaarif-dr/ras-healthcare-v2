@@ -1,0 +1,21 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Assigned To,Remarks
+TC001,Verify product listing is displayed correctly,"Navigate to home page, ensure products are visible",All products displayed with correct details,Products displayed correctly,Passed,Low,John Doe,All items displayed as expected
+TC002,Validate search functionality,"Enter search term, check results",Relevant products displayed,Irrelevant items shown for certain terms,Failed,Medium,Jane Smith,Bug logged for review
+TC003,Check cart operations,"Add items to cart, update quantity, remove item",Cart updates reflect accurately,Cart operations work as expected,Passed,Low,John Doe,All cart actions validated
+TC004,Handle API failure for product listing,Simulate API downtime,Error message displayed,Error message displayed correctly,Passed,High,Jane Smith,Test case critical for user experience
+TC005,Validate checkout process,"Fill checkout form, complete order",Order placed successfully,Order placed with all details saved,Passed,High,John Doe,Key feature validated
+TC006,Mock Test Case 6,Perform step 6,Expected outcome 6,Actual outcome 6,Passed,Low,John Doe,Remarks for case 6
+TC007,Mock Test Case 7,Perform step 7,Expected outcome 7,Actual outcome 7,Failed,Medium,Jane Smith,Remarks for case 7
+TC008,Mock Test Case 8,Perform step 8,Expected outcome 8,Actual outcome 8,Passed,High,John Doe,Remarks for case 8
+TC009,Mock Test Case 9,Perform step 9,Expected outcome 9,Actual outcome 9,Failed,Low,Jane Smith,Remarks for case 9
+TC0010,Mock Test Case 10,Perform step 10,Expected outcome 10,Actual outcome 10,Passed,Medium,John Doe,Remarks for case 10
+TC0011,Mock Test Case 11,Perform step 11,Expected outcome 11,Actual outcome 11,Failed,High,Jane Smith,Remarks for case 11
+TC0012,Mock Test Case 12,Perform step 12,Expected outcome 12,Actual outcome 12,Passed,Low,John Doe,Remarks for case 12
+TC0013,Mock Test Case 13,Perform step 13,Expected outcome 13,Actual outcome 13,Failed,Medium,Jane Smith,Remarks for case 13
+TC0014,Mock Test Case 14,Perform step 14,Expected outcome 14,Actual outcome 14,Passed,High,John Doe,Remarks for case 14
+TC0015,Mock Test Case 15,Perform step 15,Expected outcome 15,Actual outcome 15,Failed,Low,Jane Smith,Remarks for case 15
+TC0016,Mock Test Case 16,Perform step 16,Expected outcome 16,Actual outcome 16,Passed,Medium,John Doe,Remarks for case 16
+TC0017,Mock Test Case 17,Perform step 17,Expected outcome 17,Actual outcome 17,Failed,High,Jane Smith,Remarks for case 17
+TC0018,Mock Test Case 18,Perform step 18,Expected outcome 18,Actual outcome 18,Passed,Low,John Doe,Remarks for case 18
+TC0019,Mock Test Case 19,Perform step 19,Expected outcome 19,Actual outcome 19,Failed,Medium,Jane Smith,Remarks for case 19
+TC0020,Mock Test Case 20,Perform step 20,Expected outcome 20,Actual outcome 20,Passed,High,John Doe,Remarks for case 20
